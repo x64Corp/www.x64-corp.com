@@ -5,12 +5,14 @@ We are a premier design engineering and consultancy organization, committed towa
 
 If you want our services, contact us at writetous@x64-corp.com
 
+
 ### News & Announcements
 
-5th July - Acquired [x32 Corporation](http://x32corp.org).
-14th June 2017 - Raised 1.1 Billion USD Funding
-24th December - Office in New Delhi and London
-23 May 2016 - Raised 3 Billion US Funding.
+- 5th July - Acquired [x32 Corporation](http://x32corp.org).
+- 14th June 2017 - Raised 1.1 Billion USD Funding
+- 24th December - Office in New Delhi and London
+- 23 May 2016 - Raised 3 Billion US Funding.
+
 
 ### Services
 
@@ -19,6 +21,7 @@ If you want our services, contact us at writetous@x64-corp.com
  - Penetration Testing
  - Mobile App Developement
  - Project Management
+
 
 ### We are hiring.
 
