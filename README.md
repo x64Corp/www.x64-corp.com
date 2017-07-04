@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## x64 - Corporation
+##### One Stop solution for all Software Developements
 
-You can use the [editor on GitHub](https://github.com/x64Corp/www.x64-corp.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a premier design engineering and consultancy organization, committed towards technological excellence and self-reliance in all areas, be it cloud, IOT, desktop clients, or web apps.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you want our services, contact us at writetous@x64-corp.com
 
-### Markdown
+### News & Announcements
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+5th July - Acquired [x32 Corporation](http://x32corp.org).
+14th June 2017 - Raised 1.1 Billion USD Funding
+24th December - Office in New Delhi and London
+23 May 2016 - Raised 3 Billion US Funding.
 
-```markdown
-Syntax highlighted code block
+### Services
 
-# Header 1
-## Header 2
-### Header 3
+ - Software Developement
+ - QA / QC
+ - Penetration Testing
+ - Mobile App Developement
+ - Project Management
 
-- Bulleted
-- List
+### We are hiring.
 
-1. Numbered
-2. List
+If you think that your skills could be a match for us? Please send in your resume to jenni.yang@x64-corp.com
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/x64Corp/www.x64-corp.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
