@@ -9,9 +9,10 @@ If you want our services, contact us at writetous@x64-corp.com
 ### News & Announcements
 
 - 5th July - Acquired [x32 Corporation](http://x32corp.org).
-- 14th June 2017 - Raised 1.1 Billion USD Funding
-- 24th December - Office in New Delhi and London
+- 14th June 2017 - Raised 1.1 Billion USD Funding.
+- 24th December - Office in New Delhi and London.
 - 23 May 2016 - Raised 3 Billion US Funding.
+- 22 September 2015 - Company started in San Fransisco.
 
 
 ### Services
@@ -25,7 +26,7 @@ If you want our services, contact us at writetous@x64-corp.com
 
 ### We are hiring.
 
-If you think that your skills could be a match for us? Please send in your resume to jenni.yang@x64-corp.com
+If you think that your skills could be a match for us, please send in your resume to jenni.yang@x64-corp.com
 
 
 
