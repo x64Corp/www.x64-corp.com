@@ -28,9 +28,12 @@ If you want our services, contact us at writetous@x64-corp.com
 
 If you think that your skills could be a match for us, please send in your resume to jenni.yang@x64-corp.com
 
-or Contact our Sys Admin Roger Stone
-Phone: 445332212121299
-Email: roger.stone@x64-corp.com
+or Contact our Sys Admin *Roger Stone*
+
+*Phone:* 445332212121299
+
+*Email:* roger.stone@x64-corp.com
+
 San Jose
 
 
